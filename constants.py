@@ -1,3 +1,3 @@
-vk_id = "-100567023"
-token = "206749085:AAHB00ih1Ul_kPZ7Bl7v8lrOIc05idpWvXk"
-chat_id = "225403562"
+vk_id = <here your vk id or group id>
+token = <here your telegram token>
+chat_id = <here your telegram chat id>
